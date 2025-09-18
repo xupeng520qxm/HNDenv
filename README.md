@@ -1,2 +1,3 @@
 # HNDenv
 Analysis of the Impact of Environmental Factors on Coral Reef Ecosystems
+Firstly, we utilized tiqu.R to obtain salinity data from five sampling points of the nearshore coral reefs of Hainan Island on the EU's Global Ocean Physics Analysis and Forecasting (GOPAF) ocean satellite (https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/download). Secondly, we used tiqu1.R to obtain the Chlorophyll_a(Chl_a), Kinetics Dependent, Photosynthetically Active Radiation, Particulate Inorganic Carbon, Particulate Organic Carbon and Sea Surface Temperature at the corresponding points on the OceanColor data website (https://oceandata.sci.gsfc.nasa.gov/l3/order/).Finally, we combined the two sets of data into a new environmental data table.
